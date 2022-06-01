@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    padding-left: 6cm;
+    padding-right: 2cm;
+    padding-top: 0.5cm;
+}
+
+.intro {
+    margin-right: 5cm;
+    font-size: larger;
+    padding-top: 2cm;
+    text-align: justify;
+    padding-bottom: 3cm;
+}
+
+h2 {
+    padding-top: 1cm;
+    text-align: left;
+    margin-left: 9.5cm;
+}
+
+.main {
+    text-align: justify;
+    font-size: medium;
+    padding-left: 5cm;
+}
+
+.img2 {
+    padding-right: 5cm;
+    padding-left: 2cm;
+    padding-top: 2cm;
+}
+
+h2 {
+    text-align: center;
+    padding-right: 9cm;
+    padding-top: 2cm;
+}
+
+.list {
+    text-align: center;
+    font-size: large;
+}
+
+div { text-align: center;
+ }
+ 
+ul { display: inline-block;
+     text-align: left;
+      font-size: large; 
+      padding-bottom: 2cm; 
+    }
