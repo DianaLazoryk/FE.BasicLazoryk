@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+section { 
+    text-align: center;
+    text-align: justify;
+    padding-right: 10cm;
+    padding-left: 10cm;
+}
+
+img {
+    padding-left: 15cm;
+    padding-bottom: 5mm;
+}
+
+article {
+    text-align: center;
+    text-align: justify;
+    padding-right: 10cm;
+    padding-left: 10cm;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img2 {
+    padding-left: 5cm;
+}
+
+.list {
+    text-align: center;
+}
+
+div { text-align: center;
+}
+
+ul { display: inline-block;
+    text-align: left;
+     font-size: large; 
+     padding-bottom: 2cm; 
+   }
