@@ -3,10 +3,11 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-img {
+aside {
     padding-left: 6cm;
     padding-right: 2cm;
     padding-top: 0.5cm;
+    float: left;
 }
 
 .intro {
@@ -20,7 +21,7 @@ img {
 h2 {
     padding-top: 1cm;
     text-align: left;
-    margin-left: 9.5cm;
+    margin-left: 7cm;
 }
 
 .main {
@@ -33,6 +34,7 @@ h2 {
     padding-right: 5cm;
     padding-left: 2cm;
     padding-top: 2cm;
+    float: right;
 }
 
 h2 {
@@ -48,7 +50,7 @@ h2 {
 
 div { text-align: center;
  }
- 
+
 ul { display: inline-block;
      text-align: left;
       font-size: large; 
