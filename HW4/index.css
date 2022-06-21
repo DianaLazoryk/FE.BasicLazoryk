@@ -1,0 +1,243 @@
+.header {
+height: 500px;
+background-color: #ED4C5C;
+display: flex;
+}
+
+.intro {
+    display: inline-block;
+    position: absolute;
+    left: 165px;
+    top: 122px;
+    
+}
+
+.intro_h2 {
+    Width: 445px;
+    height: 107px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    padding-bottom:24px;
+}
+
+.intro_p {
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    width: 445px;
+    height: 64px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    padding-bottom: 42px;
+}
+
+.playmkt {
+    padding-right: 25px;
+}
+
+.apple {
+    padding-right: 25px;
+}
+
+.pic1{
+    position: absolute;
+    left: 795px;
+    top: 94px;
+    z-index: 1;
+}
+
+.pic2 {
+    position: absolute;
+    left: 901px;
+    top: 116px;
+}
+
+.pic3{
+    position: absolute;
+    left: 751px;
+    top: 116px;
+}
+
+.contact_form{
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 500px;
+    background: #FFFFFF;
+    display: flex;
+}
+
+.contact_h2 {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 176px;
+    top: 617px;
+}
+
+.contact_p{
+    position: absolute;
+    left: 176px;
+    top: 713px;
+    width: 434px;
+    height: 64px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+}
+
+.submit_form{
+    position: absolute;
+    left: 735px;
+    top: 617px;
+    font-family: 'Lato', sans-serif;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.wrap_form{
+    display: flex;
+    justify-content: space-between;
+    width: 540px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+}
+
+.input{
+    box-sizing: border-box;
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    padding-left: 31px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.phone{
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 31px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    border: 1px solid #333333;
+}
+
+select {
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5); 
+    padding-left: 31px;
+}
+
+button {
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    width: 160px;
+    height: 50px;
+    margin-top: 27px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    height: 435px;
+    left: 0px;
+    top: 1045px;
+    background: #FAFAFA;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footext {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 160%;
+    color: #000000;
+}
+
+.address_block{
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 85px;
+}
+
+footer h2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 22px;
+    padding-bottom: 33px;
+}
+
+.services_block {
+    position: absolute;
+    top: 85px;
+    left: 450px;
+    width: 254px;
+}
+
+.contact_block {
+    position: absolute;
+    width: 254px;
+    left: 734px;
+    top: 85px;
+}
+
+.socialmedia{
+    display: flex;
+    justify-content:space-between;
+    width: 66px;
+    height: 14px;
+    position: absolute;
+    padding-top: 20px;
+}
+
+.payment{
+    position: absolute;
+    width: 216px;
+    left: 1028px;
+    top: 85px;
+}
+
+.card{
+    width: 216px;
+    height: 31px;
+    padding-top: 33px;
+}
+
+.copyright{
+    position: absolute;
+    width: 155px;
+    left: 161px;
+    top: 335px;
+}
